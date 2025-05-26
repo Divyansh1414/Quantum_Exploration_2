@@ -9,7 +9,7 @@ A proof-of-concept hybrid quantum-classical neural network to detect credit card
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Classical Preprocessing**  
   Standard scaling, train-test split, and one-hot encoding of binary labels.  
