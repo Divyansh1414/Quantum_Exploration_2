@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+tensorflow==2.4.0
+keras-nightly==2.5.0.dev2021032900
+pennylane==0.17.0
+strawberryfields==0.18.0
+matplotlib
